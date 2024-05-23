@@ -164,7 +164,7 @@ function onEachFeature(feature, layer) {
                                   </div>
                                 `,
         {
-            minWidth: 200,
+            minWidth: 400,
             maxHeight: 520,
         },
     );
